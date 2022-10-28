@@ -1,5 +1,58 @@
 .App {
   text-align: center;
+  color: rgb(244, 248, 248);
+}
+.background {
+  padding-top: 15%;
+  text-justify: auto;
+  max-width: 100%;
+  margin-top: 2.5%;
+}
+body {
+  background-color: #092f44;
+}
+header {
+  padding-bottom: 3%;
+  background-color: rgba(235, 232, 228, 0.952);
+}
+.Users {
+  margin-top: 30px;
+}
+.user_inf {
+  background-color: hsl(200, 13%, 87%);
+  color: rgb(50, 76, 110);
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: center;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+.Linkss {
+  font-weight: 900;
+  font-size: 20px;
+  color: #234475b9;
+  text-decoration: none;
+}
+.Linkks {
+  font: weight 500;
+  font-style: italic;
+  font-size: 20px;
+  color: #332e19b9;
+  text-decoration: none;
+}
+.Links {
+  font: weight 500;
+  font-style: italic;
+  font-size: 20px;
+  color: #e2e6ebb9;
+  text-decoration: none;
+}
+.navv {
+  margin-left: 2px;
+  margin-right: 2px;
+  background-color: rgb(148, 130, 109);
+  border-radius: 5px;
+  font-style: oblique;
 }
 
 .App-logo {
